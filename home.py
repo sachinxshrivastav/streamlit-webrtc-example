@@ -1,7 +1,6 @@
 import logging
 
 import streamlit as st
-
 logger = logging.getLogger()
 
 st.title("streamlit-webrtc demo!")
